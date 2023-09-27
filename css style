@@ -1,7 +1,7 @@
 /* styles.css */
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Arial, sans-serif !important;
   margin: 0;
   padding: 0;
   background-color: #f4e4d8; /* Earthy background color */
