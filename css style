@@ -4,12 +4,14 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f2f2f2;
+  background-color: #f4e4d8; /* Earthy background color */
+  background-image: url("your-pattern-image.jpg"); /* Replace with your pattern image URL */
+  background-size: cover;
 }
 
 header {
   text-align: center;
-  background-color: #3498db;
+  background-color: #2e3836; /* Dark Earthy color for header */
   color: #fff;
   padding: 20px;
 }
@@ -20,7 +22,12 @@ h1 {
 
 .about,
 .hobbies {
-  background-color: #fff;
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.9
+  ); /* Semi-transparent white background */
   padding: 20px;
   margin: 20px;
   border-radius: 5px;
