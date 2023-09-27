@@ -6,6 +6,7 @@ body {
   padding: 0;
   background-color: #f4e4d8; /* Earthy background color */
   background-image: url("https://media.istockphoto.com/id/1371403635/video/4k-abstract-fluid-color-gradient-neon-colorful-background.jpg?s=640x640&k=20&c=6We1_0Z76fniul80c_QRcztmltERvrET_BqDHeFJwvo="); /* Replace with your pattern image URL */
+
   background-size: cover;
 }
 
